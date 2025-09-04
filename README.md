@@ -23,4 +23,4 @@ Criar uma função que analisa a compatibilidade entre pessoas e animais com bas
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuUsuario/desafio-FelicianoGois-2025.git
+   git clone https://github.com/FelicianoGois/deafio-FelicianoGois-2025.git
